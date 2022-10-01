@@ -1,7 +1,6 @@
-<div align="center">
-  <h1>Welcome to my page! 😊</h1>
-</div>
+Welcome to my page!
 
+Readme coming soon
 
 
 
