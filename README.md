@@ -1,6 +1,8 @@
-Programming student with 10+ years of Python, HTML, CSS experience.
-
-Founder of jitw0rld.
+- 10+ years experience with Python
+- 7-8 years experience with HTML & CSS
+- 2 years experience with Javascript
+- 5 months experience with Assembly
+- 1 month experience with Java
 
 ## my statistics
 <a href="https://github.com/89mpxf">
