@@ -1,22 +1,6 @@
-<div float="right">
-  <a href="https://github.com/89mpxf">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=89mpxf&show_icons=true&bg_color=9,fb743f,fc466b&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
-  </a>
+<div align="center">
+  <h1>Welcome to my page! 😊</h1>
 </div>
-
-# Welcome to my page! 😊
-
-I am a IT student with:
-- 10+ years experience with Python
-- 7-8 years experience with HTML & CSS
-- 2 years experience with Javascript
-
-
-- 5 months experience with Assembly
-- 1 month experience with Java
-
-
-founder of jitw0rld
 
 
 
